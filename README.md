@@ -12,7 +12,7 @@ I made a clone hotstart with express . In this code I used crud method. Like get
 
 4. besically, we need a postman app because browser only accept html code and get code Browser can't accept post and delete method.
 
-5. I use splice keyword in delete method because I need to delete specific postion and splice onl the way to delete value by index.
+5. I use params keyword in delete method because I need to delete specific id and params only the way to delete value by id.
 
 ## Requirements
 
